@@ -1,0 +1,1 @@
+This project is sponsored by [ALX](https://www.alxafrica.com). THis program, *Software Engineering course*, spans a year and I am ready to take the most out of it.
